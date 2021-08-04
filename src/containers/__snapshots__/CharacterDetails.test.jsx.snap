@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Character Detail Container Character Detail Page rendering test 1`] = `
+Array [
+  <img
+    alt="Analay"
+    src="https://vignette.wikia.nocookie.net/avatar/images/c/c3/Analay.png/revision/latest?cb=20140430182201"
+  />,
+]
+`;
